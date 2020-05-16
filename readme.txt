@@ -78,15 +78,15 @@ R1        - 22 ohm
 R2, R3    - 4.7K
 R4        - 22 ohm
 
-RN1 - 4.7K   SIP 10-pin Bussed 9 Resistor Network
-RN2 - 22 ohm SIP 10-pin Separate 5 Resitors Pack
-RN3 - 22 ohm SIP 10-pin Separate 5 Resitors Pack
-RN4 - 22 ohm SIP 8-pin  Separate 4 Resitors Pack
-RN5 - 22 ohm SIP 8-pin  Separate 4 Resitors Pack
-RN6 - 4.7K   SIP 8-pin  Bussed 7 Resistor Network
-RN7 - 10K    SIP 10-pin Bussed 9 Resistor Network
-RN8 - 10K    SIP 10-pin Bussed 9 Resistor Network
-RN9 - 4.7K   SIP 8-pin  Bussed 7 Resistor Network
+RN1 - 4.7K   SIP 10-pin Bussed   9 Resistor Network
+RN2 - 22 ohm SIP 10-pin Separate 5 Resistor Pack
+RN3 - 22 ohm SIP 10-pin Separate 5 Resistor Pack
+RN4 - 22 ohm SIP 8-pin  Separate 4 Resistor Pack
+RN5 - 22 ohm SIP 8-pin  Separate 4 Resistor Pack
+RN6 - 4.7K   SIP 8-pin  Bussed   7 Resistor Network
+RN7 - 10K    SIP 10-pin Bussed   9 Resistor Network
+RN8 - 10K    SIP 10-pin Bussed   9 Resistor Network
+RN9 - 4.7K   SIP 8-pin  Bussed   7 Resistor Network
 
 Jumpers/Headers:
 ----------------
@@ -97,5 +97,5 @@ J4 - 3-pin 90 degree male header "RAM ROM"
 J5 - 60-pin vertical female header 
 J6 - 60-pin vertical female header
 J9 - 40-pin vertical female headerc
-P6 - 60-pin vertical male header
+P7 - 60-pin vertical male header
 P9 - 40-pin vertical male header
