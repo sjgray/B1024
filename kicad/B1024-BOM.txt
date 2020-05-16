@@ -1,0 +1,33 @@
+Anderson Communications Engineering B1024 Board for CBM-II
+==========================================================
+BOM
+
+#01 Circuit Board
+#09 Sockets 16-pin x32 for DRAMs
+            16-pin x11 for other chips
+            14-pin  x3 for other chips
+#10 Socket 28-pin x1 for 6264
+#11 (Not needed) DIP Plug
+#12 Jumper  19141 0.12/ea minimum 10  DONE
+#13 41256 DRAM x32  41398  0.69/ea for more than 10  DONE
+#14 6264            42892  2.75 DONE
+#15 74S02   48266   $0.69  DONE
+#16 74S08   48303   $0.69  DONE
+#17 74S74   676991  $0.79  DONE
+#18 74S85   48952   $1.19  DONE
+#19 74S139  ???            DONE
+#20 74S153  ???            DONE
+#21 74S157  48451   $1.25  DONE
+#22 74LS393 47731   $0.85  DONE
+#23 0.1uF x51 544921  minimum 10   $0.11 for 100+
+#32 4.7K .25W
+
+691024  4.7Kohm .25W
+22 ohm 4 section / 8 pin  4608X-2-220LF-ND
+22 ohm 5 section / 8 pin  4610X-2-220LF-ND
+4.7K 7 section / 8 pin    4608X-1-472LF-ND
+4.7K 9 section / 10 pin   4610X-1-472LF-ND
+10K 9 section / 10 pin    4610X-1-103LF-ND
+10-pin: 5
+8-pin: 4
+
