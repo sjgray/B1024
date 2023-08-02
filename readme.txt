@@ -1,5 +1,13 @@
 B1024 Clone Project (C)2020 Steve J. Gray.
-=================== Started May 2020
+=================== Started May 2020. Updated Aug 2023.
+
+OVERALL STATUS: In Progress
+
+SCHEMATICS    : Currently Reverse engineering Schematic diagram.
+BOARD LAYOUT  : Mostly complete
+BOARD LABELS  : NONE
+GERBERS       : NONE
+PCB           : NONE
 
 Intro
 -----
